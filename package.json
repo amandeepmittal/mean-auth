@@ -1,0 +1,30 @@
+{
+  "name": "mean-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "./node_modules/bower/bin/bower install"
+  },
+  "keywords": [],
+  "author": "Aman Mittal (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "bower": "1.8.0",
+    "cookie-parser": "1.4.3",
+    "cors": "2.8.1",
+    "express": "4.14.0",
+    "express-jwt": "5.1.0",
+    "jsonwebtoken": "7.2.1",
+    "mongoose": "4.7.2",
+    "morgan": "1.7.0",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0"
+  },
+  "engines": {
+    "node": "6.9.2",
+    "npm": "3.10.x"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mean-auth",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Aman Mittal (http://amandeepmittal.github.io/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
