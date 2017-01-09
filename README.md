@@ -1,7 +1,8 @@
 # MEAN-auth
 
-Deployed link: [Heroku]()
-Database Deployment serviced used: mlab
+- Deployed link: [Heroku]()
+
+- Database Deployment serviced used: mlab
 
 ### Configuration:
 
