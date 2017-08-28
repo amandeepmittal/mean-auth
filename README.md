@@ -1,5 +1,7 @@
 # MEAN-auth
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/mean-auth.svg)](https://greenkeeper.io/)
+
 - Deployed link: [Heroku](https://auth-mean.herokuapp.com/)
 - Database Deployment serviced used: mlab
 
